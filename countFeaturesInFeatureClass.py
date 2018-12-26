@@ -4,7 +4,7 @@
 
 import arcpy
 
-fc = r"E:\TreeRisk\TreeRiskTools\OtherTestLines\line_t6390\Line_T6390_Outputs\Line_T6390_Hazard_Tree.gdb\TreeRisk_Complete_Hazard_Tree_Cat2" #test Hazard tree cat 2 feature class
+fc = r" " #path to feature class
 
 count = 0
 
